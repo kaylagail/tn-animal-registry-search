@@ -136,6 +136,20 @@ function recordId(record) {
     .replace(/[^a-z0-9|]+/g, "-");
 }
 
+function lastNameKey(name) {
+  const suffixes = new Set(["jr", "sr", "ii", "iii", "iv", "v"]);
+  const parts = decodeHtml(name)
+    .split(/\s+/)
+    .map((part) => part.replace(/[^a-z]/gi, "").toLowerCase())
+    .filter(Boolean);
+
+  while (parts.length > 1 && suffixes.has(parts.at(-1))) {
+    parts.pop();
+  }
+
+  return parts.at(-1) ?? "";
+}
+
 function parseRegistry(html) {
   const chunks = html.split(/<div class="tn-textandimage textimage parbase">/i).slice(1);
 
@@ -172,7 +186,11 @@ function parseRegistry(html) {
     .filter(Boolean);
 
   const uniqueRecords = Array.from(new Map(records.map((item) => [item.id, item])).values());
-  uniqueRecords.sort((a, b) => a.name.localeCompare(b.name, "en"));
+  uniqueRecords.sort((a, b) => {
+    const lastNameCompare = lastNameKey(a.name).localeCompare(lastNameKey(b.name), "en");
+    if (lastNameCompare !== 0) return lastNameCompare;
+    return a.name.localeCompare(b.name, "en");
+  });
   return uniqueRecords;
 }
 
