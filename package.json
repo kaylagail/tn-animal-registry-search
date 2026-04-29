@@ -1,0 +1,14 @@
+{
+  "name": "tn-animal-registry-search",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A static searchable mirror of the public Tennessee Animal Abuse Registry.",
+  "scripts": {
+    "update:data": "node scripts/update-registry.mjs",
+    "serve": "npx serve public"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
