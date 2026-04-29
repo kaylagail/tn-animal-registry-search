@@ -21,10 +21,11 @@ jobs:
           node-version: 22
 
       - name: Update registry JSON
-        run: node update-registry.mjs
+        run: npm run update:data
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update TBI registry data"
-          file_pattern: registry.json
+          file_pattern: public/registry.json
+
