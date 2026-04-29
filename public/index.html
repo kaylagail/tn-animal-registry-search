@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Search aid for the public Tennessee Animal Abuse Registry maintained from the official TBI source."
+    />
+    <title>Tennessee Animal Abuse Registry Search</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-inner">
+        <div>
+          <p class="eyebrow">Public search aid</p>
+          <h1>Tennessee Animal Abuse Registry Search</h1>
+        </div>
+        <nav class="header-actions" aria-label="Helpful links">
+          <a class="button secondary" id="folcaLink" href="#" target="_blank" rel="noreferrer">FOLCA</a>
+          <a class="button donate" id="donateLink" href="#" target="_blank" rel="noreferrer">Donate</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="notice" aria-labelledby="notice-title">
+        <h2 id="notice-title">Important Notice</h2>
+        <p id="sourceDisclaimer">
+          This site republishes public information from the Tennessee Bureau of Investigation
+          Animal Abuse Registry as a searchable aid. Always confirm results with the official
+          TBI registry before making a final decision.
+        </p>
+        <p>
+          This free search tool is provided by Friends of Lawrence County Animals to help
+          shelters, rescues, and adoption groups protect animals across Tennessee.
+        </p>
+        <div class="notice-links">
+          <a id="sourceLink" href="https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html" target="_blank" rel="noreferrer">Official TBI registry</a>
+          <a id="lawLink" href="https://www.tn.gov/content/dam/tn/tbi/documents/PC0413_-_Tennessee_Animal_Abuser_Registration_Act.pdf" target="_blank" rel="noreferrer">Registry law</a>
+        </div>
+      </section>
+
+      <section class="search-panel" aria-labelledby="search-title">
+        <div class="panel-heading">
+          <div>
+            <h2 id="search-title">Search Registry</h2>
+            <p id="syncStatus">Loading registry data...</p>
+          </div>
+          <div class="count" id="resultCount">0 results</div>
+        </div>
+
+        <div class="controls">
+          <label class="search-field">
+            <span>Search by name, county, offense, address, DOB, or date</span>
+            <input id="searchInput" type="search" autocomplete="off" placeholder="Example: Smith, Shelby, aggravated cruelty" />
+          </label>
+
+          <label class="checkbox">
+            <input id="currentOnly" type="checkbox" checked />
+            <span>Show current records only</span>
+          </label>
+        </div>
+      </section>
+
+      <section class="results" aria-live="polite">
+        <div id="emptyState" class="empty" hidden>No matching records found.</div>
+        <div id="resultsList" class="results-list"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>
+        Maintained as a public search aid by Friends of Lawrence County Animals. Data source:
+        Tennessee Bureau of Investigation.
+      </p>
+    </footer>
+
+    <template id="recordTemplate">
+      <article class="record-card">
+        <img class="record-photo" alt="" loading="lazy" />
+        <div class="record-body">
+          <div class="record-topline">
+            <h3></h3>
+            <span class="status"></span>
+          </div>
+          <dl>
+            <div>
+              <dt>DOB</dt>
+              <dd data-field="dob"></dd>
+            </div>
+            <div>
+              <dt>County</dt>
+              <dd data-field="county"></dd>
+            </div>
+            <div>
+              <dt>Offense</dt>
+              <dd data-field="offense"></dd>
+            </div>
+            <div>
+              <dt>Conviction</dt>
+              <dd data-field="conviction"></dd>
+            </div>
+            <div>
+              <dt>Expiration</dt>
+              <dd data-field="expiration"></dd>
+            </div>
+            <div class="full">
+              <dt>Address</dt>
+              <dd data-field="address"></dd>
+            </div>
+          </dl>
+        </div>
+      </article>
+    </template>
+
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>
