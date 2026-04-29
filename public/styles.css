@@ -214,6 +214,56 @@ input[type="search"]:focus {
   gap: 14px;
 }
 
+.alpha-nav {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #ffffff;
+  padding: 10px;
+  box-shadow: 0 10px 24px rgba(27, 59, 109, 0.08);
+}
+
+.alpha-nav a,
+.alpha-nav span {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 6px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.alpha-nav a {
+  background: var(--primary);
+  color: #ffffff;
+}
+
+.alpha-nav a:hover,
+.alpha-nav a:focus {
+  background: var(--primary-dark);
+}
+
+.alpha-nav span {
+  background: #f2f2f2;
+  color: #a8a6a5;
+}
+
+.section-heading {
+  scroll-margin-top: 72px;
+  margin: 8px 0 -4px;
+  border-bottom: 3px solid var(--gold);
+  color: var(--primary);
+  font-size: 1.25rem;
+}
+
 .record-card {
   display: grid;
   grid-template-columns: 116px minmax(0, 1fr);

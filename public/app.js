@@ -5,10 +5,12 @@ const state = {
   data: null,
   records: [],
   query: "",
-  currentOnly: true
+  currentOnly: true,
+  alphabet: "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("")
 };
 
 const elements = {
+  alphaNav: document.querySelector("#alphaNav"),
   currentOnly: document.querySelector("#currentOnly"),
   donateLink: document.querySelector("#donateLink"),
   emptyState: document.querySelector("#emptyState"),
@@ -54,6 +56,26 @@ function dateDisplay(value, fallback) {
   return `${Number(month)}-${Number(day)}-${year}`;
 }
 
+function lastName(record) {
+  const suffixes = new Set(["jr", "sr", "ii", "iii", "iv", "v"]);
+  const parts = String(record.name ?? "")
+    .trim()
+    .split(/\s+/)
+    .map((part) => part.replace(/[^a-z]/gi, "").toLowerCase())
+    .filter(Boolean);
+
+  while (parts.length > 1 && suffixes.has(parts.at(-1))) {
+    parts.pop();
+  }
+
+  return parts.at(-1) ?? "";
+}
+
+function lastInitial(record) {
+  const initial = lastName(record).charAt(0).toUpperCase();
+  return /^[A-Z]$/.test(initial) ? initial : "#";
+}
+
 function isCurrent(record) {
   if (!record.expirationDate) return true;
   const today = new Date();
@@ -90,15 +112,52 @@ function getFilteredRecords() {
 function render() {
   const filtered = getFilteredRecords();
   elements.resultsList.replaceChildren();
+  renderAlphabet(filtered);
 
   elements.resultCount.textContent = `${filtered.length} ${filtered.length === 1 ? "result" : "results"}`;
   elements.emptyState.hidden = filtered.length !== 0;
 
   const fragment = document.createDocumentFragment();
+  let activeInitial = "";
   for (const record of filtered) {
+    const initial = lastInitial(record);
+    if (initial !== activeInitial) {
+      activeInitial = initial;
+      fragment.appendChild(renderSectionHeading(initial));
+    }
     fragment.appendChild(renderRecord(record));
   }
   elements.resultsList.appendChild(fragment);
+}
+
+function renderAlphabet(records) {
+  const availableLetters = new Set(records.map(lastInitial));
+  const fragment = document.createDocumentFragment();
+
+  for (const letter of state.alphabet) {
+    if (availableLetters.has(letter)) {
+      const link = document.createElement("a");
+      link.href = `#section-${letter}`;
+      link.textContent = letter;
+      fragment.appendChild(link);
+    } else {
+      const span = document.createElement("span");
+      span.textContent = letter;
+      span.setAttribute("aria-disabled", "true");
+      fragment.appendChild(span);
+    }
+  }
+
+  elements.alphaNav.replaceChildren(fragment);
+  elements.alphaNav.hidden = records.length === 0;
+}
+
+function renderSectionHeading(initial) {
+  const heading = document.createElement("h3");
+  heading.id = `section-${initial}`;
+  heading.className = "section-heading";
+  heading.textContent = initial;
+  return heading;
 }
 
 function renderRecord(record) {
