@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-12T13:16:43.410Z",
+  "generatedAt": "2026-05-13T13:30:53.756Z",
   "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html",
   "lawUrl": "https://www.tn.gov/content/dam/tn/tbi/documents/PC0413_-_Tennessee_Animal_Abuser_Registration_Act.pdf",
   "sourceDisclaimer": "The information contained in the registry is provided to the Tennessee Bureau of Investigation by the appropriate clerk in each county. The TBI does not independently verify the convictions, and cannot guarantee their accuracy. Therefore, this information should be regarded as a resource suggesting the need for further inquiry.",
-  "recordCount": 27,
+  "recordCount": 28,
   "records": [
     {
       "id": "joseph-applewhite|2-12-1995|shelby|2026-02-11|aggravated-cruelty-to-animals",
@@ -243,6 +243,21 @@
       "expirationDateDisplay": "5-19-2027",
       "imageUrl": "https://www.tn.gov/content/tn/tbi/tennessee-animal-abuse-registry/jcr%3acontent/content/tn_textandimage_6000_1870862049/image.img.jpg/1771518452062.jpg",
       "imageAlt": "Picture of SHAWN DOUGLAS PERKINS",
+      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
+    },
+    {
+      "id": "david-potter|6-5-1973|williamson|2025-09-26|aggravated-cruelty-to-animals-cruelty-to-animals",
+      "name": "DAVID POTTER",
+      "dob": "6-5-1973",
+      "address": "7105 TUPELO DRIVE, FAIRVIEW, TN 37062",
+      "countyOfConviction": "WILLIAMSON",
+      "offense": "AGGRAVATED CRUELTY TO ANIMALS, CRUELTY TO ANIMALS",
+      "convictionDate": "2025-09-26",
+      "convictionDateDisplay": "9-26-2025",
+      "expirationDate": null,
+      "expirationDateDisplay": "N/A",
+      "imageUrl": "https://www.tn.gov/content/tn/tbi/tennessee-animal-abuse-registry/jcr%3acontent/content/tn_textandimage_6000_1477727246/image.img.jpg/1778594588885.jpg",
+      "imageAlt": "Picture of DAVID POTTER",
       "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
     },
     {
