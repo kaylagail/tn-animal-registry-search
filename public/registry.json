@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-14T13:04:06.683Z",
+  "generatedAt": "2026-06-15T16:22:32.661Z",
   "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html",
   "lawUrl": "https://www.tn.gov/content/dam/tn/tbi/documents/PC0413_-_Tennessee_Animal_Abuser_Registration_Act.pdf",
   "sourceDisclaimer": "The information contained in the registry is provided to the Tennessee Bureau of Investigation by the appropriate clerk in each county. The TBI does not independently verify the convictions, and cannot guarantee their accuracy. Therefore, this information should be regarded as a resource suggesting the need for further inquiry.",
-  "recordCount": 28,
+  "recordCount": 26,
   "records": [
     {
       "id": "joseph-applewhite|2-12-1995|shelby|2026-02-11|aggravated-cruelty-to-animals",
@@ -111,36 +111,6 @@
       "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
     },
     {
-      "id": "sean-gardner|2-11-1984|unicoi|2024-04-12|aggravated-cruelty-to-animals",
-      "name": "SEAN GARDNER",
-      "dob": "2-11-1984",
-      "address": "2507 ZANE C. WHITSON, JR. DRIVE, UNICOI, TN 37650",
-      "countyOfConviction": "UNICOI",
-      "offense": "AGGRAVATED CRUELTY TO ANIMALS",
-      "convictionDate": "2024-04-12",
-      "convictionDateDisplay": "4-12-2024",
-      "expirationDate": "2026-04-12",
-      "expirationDateDisplay": "4-12-2026",
-      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_549099262/image.img.png/1771518617709.png",
-      "imageAlt": "Picture of SEAN GARDNER",
-      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
-    },
-    {
-      "id": "joshua-blake-hurst|5-18-2001|hawkins|2024-04-24|aggravated-cruelty-to-animals",
-      "name": "JOSHUA BLAKE HURST",
-      "dob": "5-18-2001",
-      "address": "398 ORCHARD LANE, MCMINNVILLE, TN 37110",
-      "countyOfConviction": "HAWKINS",
-      "offense": "AGGRAVATED CRUELTY TO ANIMALS",
-      "convictionDate": "2024-04-24",
-      "convictionDateDisplay": "4-24-2024",
-      "expirationDate": "2026-04-24",
-      "expirationDateDisplay": "4-24-2026",
-      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_1832073964/image.img.png/1771518674683.png",
-      "imageAlt": "Picture of JOSHUA BLAKE HURST",
-      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
-    },
-    {
       "id": "inastashia-ivy|10-20-1980|shelby|2024-07-18|aggravated-cruelty-to-animals",
       "name": "INASTASHIA IVY",
       "dob": "10-20-1980",
@@ -168,21 +138,6 @@
       "expirationDateDisplay": "8-15-2027",
       "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000/image.img.jpg/1771518415098.jpg",
       "imageAlt": "Picture of IVEY LINDER",
-      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
-    },
-    {
-      "id": "adam-middleton|3-4-1989|lauderdale|2023-09-20|animal-cruelty",
-      "name": "ADAM MIDDLETON",
-      "dob": "3-4-1989",
-      "address": "713 LEE STREET, DYERSBURG, TN 38024",
-      "countyOfConviction": "LAUDERDALE",
-      "offense": "ANIMAL CRUELTY",
-      "convictionDate": "2023-09-20",
-      "convictionDateDisplay": "9-20-2023",
-      "expirationDate": "2026-04-15",
-      "expirationDateDisplay": "4-15-2026",
-      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_567315256/image.img.png/1771518661630.png",
-      "imageAlt": "Picture of ADAM MIDDLETON",
       "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
     },
     {
@@ -363,6 +318,21 @@
       "expirationDateDisplay": "9-17-2027",
       "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_1303456051/image.img.jpg/1771518389825.jpg",
       "imageAlt": "Picture of DAVID ISAIAH TATE",
+      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
+    },
+    {
+      "id": "michael-taylor|1-5-1998|shelby|2026-05-22|criminal-offense-against-animals",
+      "name": "MICHAEL TAYLOR",
+      "dob": "1-5-1998",
+      "address": "UNKNOWN",
+      "countyOfConviction": "SHELBY",
+      "offense": "CRIMINAL OFFENSE AGAINST ANIMALS",
+      "convictionDate": "2026-05-22",
+      "convictionDateDisplay": "5-22-2026",
+      "expirationDate": null,
+      "expirationDateDisplay": "N/A",
+      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_471995377/image.img.jpg/1781530595508.jpg",
+      "imageAlt": "Picture of MICHAEL TAYLOR",
       "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
     },
     {
