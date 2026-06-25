@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-24T13:28:57.706Z",
+  "generatedAt": "2026-06-25T13:27:12.251Z",
   "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html",
   "lawUrl": "https://www.tn.gov/content/dam/tn/tbi/documents/PC0413_-_Tennessee_Animal_Abuser_Registration_Act.pdf",
   "sourceDisclaimer": "The information contained in the registry is provided to the Tennessee Bureau of Investigation by the appropriate clerk in each county. The TBI does not independently verify the convictions, and cannot guarantee their accuracy. Therefore, this information should be regarded as a resource suggesting the need for further inquiry.",
-  "recordCount": 26,
+  "recordCount": 29,
   "records": [
     {
       "id": "joseph-applewhite|2-12-1995|shelby|2026-02-11|aggravated-cruelty-to-animals",
@@ -18,6 +18,21 @@
       "expirationDateDisplay": "2-11-2028",
       "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_477975028/image.img.jpg/1771598627886.jpg",
       "imageAlt": "Picture of JOSEPH APPLEWHITE",
+      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
+    },
+    {
+      "id": "jacob-alexander-azmitia|11-27-1987|marshall|2026-05-20|aggravated-cruelty-to-animals",
+      "name": "JACOB ALEXANDER AZMITIA",
+      "dob": "11-27-1987",
+      "address": "3201 COBLE ROAD, LEWISBURG, TN 37091",
+      "countyOfConviction": "MARSHALL",
+      "offense": "AGGRAVATED CRUELTY TO ANIMALS",
+      "convictionDate": "2026-05-20",
+      "convictionDateDisplay": "5-20-2026",
+      "expirationDate": "2028-05-20",
+      "expirationDateDisplay": "5-20-2028",
+      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_1969960342/image.img.jpg/1782312173754.jpg",
+      "imageAlt": "Picture of JACOB ALEXANDER AZMITIA",
       "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
     },
     {
@@ -141,6 +156,21 @@
       "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
     },
     {
+      "id": "hansford-harold-milles|7-1-1984|cocke|2026-01-15|aggravated-cruelty-to-animals-3-counts-",
+      "name": "HANSFORD HAROLD MILLES",
+      "dob": "7-1-1984",
+      "address": "507 SUSSEX STREET, LYNCHBURG, VA 24501",
+      "countyOfConviction": "COCKE",
+      "offense": "AGGRAVATED CRUELTY TO ANIMALS (3 COUNTS)",
+      "convictionDate": "2026-01-15",
+      "convictionDateDisplay": "1-15-2026",
+      "expirationDate": "2028-01-15",
+      "expirationDateDisplay": "1-15-2028",
+      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_174535792/image.img.jpg/1782311775715.jpg",
+      "imageAlt": "Picture of HANSFORD HAROLD MILLES",
+      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
+    },
+    {
       "id": "daniel-allen-moore|9-13-1994|blount|2025-08-04|aggravated-cruelty-to-animals-2-counts-",
       "name": "DANIEL ALLEN MOORE",
       "dob": "9-13-1994",
@@ -153,6 +183,21 @@
       "expirationDateDisplay": "8-4-2027",
       "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_196323813/image.img.jpg/1771518438604.jpg",
       "imageAlt": "Picture of DANIEL ALLEN MOORE",
+      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
+    },
+    {
+      "id": "jeremiah-north|3-29-2000|fayette|2026-03-02|aggravated-cruelty-to-animals",
+      "name": "JEREMIAH NORTH",
+      "dob": "3-29-2000",
+      "address": "445 FRANKLIN ROAD, MOSCOW, TN 38057",
+      "countyOfConviction": "FAYETTE",
+      "offense": "AGGRAVATED CRUELTY TO ANIMALS",
+      "convictionDate": "2026-03-02",
+      "convictionDateDisplay": "3-2-2026",
+      "expirationDate": "2028-03-02",
+      "expirationDateDisplay": "3-2-2028",
+      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_1456987664/image.img.jpg/1782312422769.jpg",
+      "imageAlt": "Picture of JEREMIAH NORTH",
       "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
     },
     {
