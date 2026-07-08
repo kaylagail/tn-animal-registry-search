@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-07T13:26:39.553Z",
+  "generatedAt": "2026-07-08T12:53:00.119Z",
   "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html",
   "lawUrl": "https://www.tn.gov/content/dam/tn/tbi/documents/PC0413_-_Tennessee_Animal_Abuser_Registration_Act.pdf",
   "sourceDisclaimer": "The information contained in the registry is provided to the Tennessee Bureau of Investigation by the appropriate clerk in each county. The TBI does not independently verify the convictions, and cannot guarantee their accuracy. Therefore, this information should be regarded as a resource suggesting the need for further inquiry.",
-  "recordCount": 29,
+  "recordCount": 32,
   "records": [
     {
       "id": "joseph-applewhite|2-12-1995|shelby|2026-02-11|aggravated-cruelty-to-animals",
@@ -63,6 +63,21 @@
       "expirationDateDisplay": "8-7-28",
       "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_111949598/image.img.jpg/1771518714664.jpg",
       "imageAlt": "Picture of DARRELL SHAWN BEALS",
+      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
+    },
+    {
+      "id": "steffan-bobo|7-6-1991|shelby|2026-03-12|aggravated-cruelty-to-animals",
+      "name": "STEFFAN BOBO",
+      "dob": "7-6-1991",
+      "address": "2495 NORTHUMBERLAND LANE, MEMPHIS, TN 38128",
+      "countyOfConviction": "SHELBY",
+      "offense": "AGGRAVATED CRUELTY TO ANIMALS",
+      "convictionDate": "2026-03-12",
+      "convictionDateDisplay": "3-12-2026",
+      "expirationDate": "2028-03-12",
+      "expirationDateDisplay": "3-12-2028",
+      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_1426217177/image.img.jpg/1783446758343.jpg",
+      "imageAlt": "Picture of STEFFAN BOBO",
       "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
     },
     {
@@ -198,6 +213,36 @@
       "expirationDateDisplay": "3-2-2028",
       "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_1456987664/image.img.jpg/1782312422769.jpg",
       "imageAlt": "Picture of JEREMIAH NORTH",
+      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
+    },
+    {
+      "id": "troy-anthony-paonessa|10-17-1976|lincoln|2026-06-16|aggravated-cruelty-to-animals",
+      "name": "TROY ANTHONY PAONESSA",
+      "dob": "10-17-1976",
+      "address": "36 SIMMONS CIRCLE #4, FAYETTEVILLE, TN 37334",
+      "countyOfConviction": "LINCOLN",
+      "offense": "AGGRAVATED CRUELTY TO ANIMALS",
+      "convictionDate": "2026-06-16",
+      "convictionDateDisplay": "6-16-2026",
+      "expirationDate": "2028-06-16",
+      "expirationDateDisplay": "6-16-2028",
+      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_251095206/image.img.jpg/1783447400968.jpg",
+      "imageAlt": "Picture of TROY ANTHONY PAONESSA",
+      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
+    },
+    {
+      "id": "gabriel-parker|1-22-2003|shelby|2026-03-03|criminal-offense-against-animals",
+      "name": "GABRIEL PARKER",
+      "dob": "1-22-2003",
+      "address": "2806 DROMEDARY LANE, MEMPHIS, TN 38133",
+      "countyOfConviction": "SHELBY",
+      "offense": "CRIMINAL OFFENSE AGAINST ANIMALS",
+      "convictionDate": "2026-03-03",
+      "convictionDateDisplay": "3-3-2026",
+      "expirationDate": "2028-03-03",
+      "expirationDateDisplay": "3-3-2028",
+      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_1276499282/image.img.jpg/1783446918343.jpg",
+      "imageAlt": "Picture of GABRIEL PARKER",
       "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
     },
     {
