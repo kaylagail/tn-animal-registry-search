@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T11:42:24.888Z",
+  "generatedAt": "2026-08-20T11:44:24.042Z",
   "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html",
   "lawUrl": "https://www.tn.gov/content/dam/tn/tbi/documents/PC0413_-_Tennessee_Animal_Abuser_Registration_Act.pdf",
   "sourceDisclaimer": "The information contained in the registry is provided to the Tennessee Bureau of Investigation by the appropriate clerk in each county. The TBI does not independently verify the convictions, and cannot guarantee their accuracy. Therefore, this information should be regarded as a resource suggesting the need for further inquiry.",
-  "recordCount": 32,
+  "recordCount": 34,
   "records": [
     {
       "id": "joseph-applewhite|2-12-1995|shelby|2026-02-11|aggravated-cruelty-to-animals",
@@ -153,6 +153,21 @@
       "expirationDateDisplay": "7-18-2026",
       "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_1610395449/image.img.png/1771518582863.png",
       "imageAlt": "Picture of INASTASHIA IVY",
+      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
+    },
+    {
+      "id": "joseph-nicholas-kinney|2-23-1996|cocke|2026-04-21|aggravated-cruelty-to-animals-3-counts-",
+      "name": "JOSEPH NICHOLAS KINNEY",
+      "dob": "2-23-1996",
+      "address": "650 CARMACK ROAD, LOT 21, NEWPORT, TN 37821",
+      "countyOfConviction": "COCKE",
+      "offense": "AGGRAVATED CRUELTY TO ANIMALS (3 COUNTS)",
+      "convictionDate": "2026-04-21",
+      "convictionDateDisplay": "4-21-2026",
+      "expirationDate": "2029-04-21",
+      "expirationDateDisplay": "4-21-2029",
+      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_1947287579/image.img.jpg/1787148692737.jpg",
+      "imageAlt": "Picture of JOSEPH NICHOLAS KINNEY",
       "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
     },
     {
@@ -333,6 +348,21 @@
       "expirationDateDisplay": "11-12-2026",
       "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_607451910/image.img.png/1771518598199.png",
       "imageAlt": "Picture of JOHN TREVOR SIMMONS",
+      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
+    },
+    {
+      "id": "allison-laurine-smalley|12-15-2000|cocke|2026-04-21|aggravated-cruelty-to-animals-3-counts-",
+      "name": "ALLISON LAURINE SMALLEY",
+      "dob": "12-15-2000",
+      "address": "650 CARMACK ROAD, LOT 21, NEWPORT, TN 37821",
+      "countyOfConviction": "COCKE",
+      "offense": "AGGRAVATED CRUELTY TO ANIMALS (3 COUNTS)",
+      "convictionDate": "2026-04-21",
+      "convictionDateDisplay": "4-21-2026",
+      "expirationDate": "2029-04-21",
+      "expirationDateDisplay": "4-21-2029",
+      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_1452426439/image.img.jpg/1787148626292.jpg",
+      "imageAlt": "Picture of ALLISON LAURINE SMALLEY",
       "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
     },
     {
