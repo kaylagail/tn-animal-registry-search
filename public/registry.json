@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T11:45:09.846Z",
+  "generatedAt": "2026-08-26T11:46:49.845Z",
   "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html",
   "lawUrl": "https://www.tn.gov/content/dam/tn/tbi/documents/PC0413_-_Tennessee_Animal_Abuser_Registration_Act.pdf",
   "sourceDisclaimer": "The information contained in the registry is provided to the Tennessee Bureau of Investigation by the appropriate clerk in each county. The TBI does not independently verify the convictions, and cannot guarantee their accuracy. Therefore, this information should be regarded as a resource suggesting the need for further inquiry.",
-  "recordCount": 34,
+  "recordCount": 35,
   "records": [
     {
       "id": "joseph-applewhite|2-12-1995|shelby|2026-02-11|aggravated-cruelty-to-animals",
@@ -183,6 +183,21 @@
       "expirationDateDisplay": "8-15-2027",
       "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000/image.img.jpg/1771518415098.jpg",
       "imageAlt": "Picture of IVEY LINDER",
+      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
+    },
+    {
+      "id": "carol-ann-manis|6-18-1982|unicoi|2026-08-18|aggravated-cruelty-to-animals",
+      "name": "CAROL ANN MANIS",
+      "dob": "6-18-1982",
+      "address": "4323 SIMERLY CREEK ROAD, LOT 5, UNICOI, TN 37692",
+      "countyOfConviction": "UNICOI",
+      "offense": "AGGRAVATED CRUELTY TO ANIMALS",
+      "convictionDate": "2026-08-18",
+      "convictionDateDisplay": "8-18-2026",
+      "expirationDate": "2028-08-18",
+      "expirationDateDisplay": "8-18-2028",
+      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_408836168/image.img.jpg/1787666748029.jpg",
+      "imageAlt": "Picture of CAROL ANN MANIS",
       "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
     },
     {
