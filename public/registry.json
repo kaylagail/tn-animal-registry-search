@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T15:08:00.409Z",
+  "generatedAt": "2026-09-10T14:59:54.064Z",
   "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html",
   "lawUrl": "https://www.tn.gov/content/dam/tn/tbi/documents/PC0413_-_Tennessee_Animal_Abuser_Registration_Act.pdf",
   "sourceDisclaimer": "The information contained in the registry is provided to the Tennessee Bureau of Investigation by the appropriate clerk in each county. The TBI does not independently verify the convictions, and cannot guarantee their accuracy. Therefore, this information should be regarded as a resource suggesting the need for further inquiry.",
-  "recordCount": 35,
+  "recordCount": 36,
   "records": [
     {
       "id": "joseph-applewhite|2-12-1995|shelby|2026-02-11|aggravated-cruelty-to-animals",
@@ -198,6 +198,21 @@
       "expirationDateDisplay": "8-18-2028",
       "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_408836168/image.img.jpg/1787666748029.jpg",
       "imageAlt": "Picture of CAROL ANN MANIS",
+      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
+    },
+    {
+      "id": "ashley-nicole-marsh|12-24-1985|giles|2026-08-24|aggravated-cruelty-to-animals",
+      "name": "ASHLEY NICOLE MARSH",
+      "dob": "12-24-1985",
+      "address": "318 VICTORIA STREET, PULASKI, TN 38478",
+      "countyOfConviction": "GILES",
+      "offense": "AGGRAVATED CRUELTY TO ANIMALS",
+      "convictionDate": "2026-08-24",
+      "convictionDateDisplay": "8-24-2026",
+      "expirationDate": "2028-08-24",
+      "expirationDateDisplay": "8-24-2028",
+      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_1293304646/image.img.png/1788978312380.png",
+      "imageAlt": "Picture of ASHLEY NICOLE MARSH",
       "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
     },
     {
