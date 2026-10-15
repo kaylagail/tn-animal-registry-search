@@ -1,10 +1,25 @@
 {
-  "generatedAt": "2026-10-14T15:49:41.747Z",
+  "generatedAt": "2026-10-15T15:36:31.260Z",
   "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html",
   "lawUrl": "https://www.tn.gov/content/dam/tn/tbi/documents/PC0413_-_Tennessee_Animal_Abuser_Registration_Act.pdf",
   "sourceDisclaimer": "The information contained in the registry is provided to the Tennessee Bureau of Investigation by the appropriate clerk in each county. The TBI does not independently verify the convictions, and cannot guarantee their accuracy. Therefore, this information should be regarded as a resource suggesting the need for further inquiry.",
-  "recordCount": 36,
+  "recordCount": 37,
   "records": [
+    {
+      "id": "steven-kieth-anglemeyer|9-24-1966|sumner|2026-09-24|aggravated-cruelty-to-animals",
+      "name": "STEVEN KIETH ANGLEMEYER",
+      "dob": "9-24-1966",
+      "address": "111 GRAVES STREET, PORTLAND, TN 37148",
+      "countyOfConviction": "SUMNER",
+      "offense": "AGGRAVATED CRUELTY TO ANIMALS",
+      "convictionDate": "2026-09-24",
+      "convictionDateDisplay": "9-24-2026",
+      "expirationDate": "2028-09-24",
+      "expirationDateDisplay": "9-24-2028",
+      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage/image.img.png/1792006838401.png",
+      "imageAlt": "Picture of STEVEN KIETH ANGLEMEYER",
+      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
+    },
     {
       "id": "joseph-applewhite|2-12-1995|shelby|2026-02-11|aggravated-cruelty-to-animals",
       "name": "JOSEPH APPLEWHITE",
@@ -211,7 +226,7 @@
       "convictionDateDisplay": "8-24-2026",
       "expirationDate": "2028-08-24",
       "expirationDateDisplay": "8-24-2028",
-      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_1293304646/image.img.png/1790349941369.png",
+      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_1293304646/image.img.png/1792006138265.png",
       "imageAlt": "Picture of ASHLEY NICOLE MARSH",
       "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
     },
