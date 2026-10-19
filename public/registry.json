@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-18T14:37:16.167Z",
+  "generatedAt": "2026-10-19T17:29:40.360Z",
   "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html",
   "lawUrl": "https://www.tn.gov/content/dam/tn/tbi/documents/PC0413_-_Tennessee_Animal_Abuser_Registration_Act.pdf",
   "sourceDisclaimer": "The information contained in the registry is provided to the Tennessee Bureau of Investigation by the appropriate clerk in each county. The TBI does not independently verify the convictions, and cannot guarantee their accuracy. Therefore, this information should be regarded as a resource suggesting the need for further inquiry.",
-  "recordCount": 37,
+  "recordCount": 36,
   "records": [
     {
       "id": "steven-kieth-anglemeyer|9-24-1966|sumner|2026-09-24|aggravated-cruelty-to-animals",
@@ -438,21 +438,6 @@
       "expirationDateDisplay": "N/A",
       "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_2090754408/image.img.png/1771518685677.png",
       "imageAlt": "Picture of CHAD SMITH",
-      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
-    },
-    {
-      "id": "robert-leonard-smith|7-28-1952|giles|2024-08-27|criminal-offenses-against-animals-11-counts-",
-      "name": "ROBERT LEONARD SMITH",
-      "dob": "7-28-1952",
-      "address": "5015 SHANNON CREEK ROAD, GOODSPRING, TN 38460",
-      "countyOfConviction": "GILES",
-      "offense": "CRIMINAL OFFENSES AGAINST ANIMALS (11 COUNTS)",
-      "convictionDate": "2024-08-27",
-      "convictionDateDisplay": "8-27-2024",
-      "expirationDate": "2026-08-27",
-      "expirationDateDisplay": "8-27-2026",
-      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_1213381358/image.img.png/1771518537065.png",
-      "imageAlt": "Picture of ROBERT LEONARD SMITH",
       "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
     },
     {
