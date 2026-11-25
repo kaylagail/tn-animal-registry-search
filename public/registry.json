@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T17:59:48.612Z",
+  "generatedAt": "2026-11-25T20:29:00.095Z",
   "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html",
   "lawUrl": "https://www.tn.gov/content/dam/tn/tbi/documents/PC0413_-_Tennessee_Animal_Abuser_Registration_Act.pdf",
   "sourceDisclaimer": "The information contained in the registry is provided to the Tennessee Bureau of Investigation by the appropriate clerk in each county. The TBI does not independently verify the convictions, and cannot guarantee their accuracy. Therefore, this information should be regarded as a resource suggesting the need for further inquiry.",
@@ -168,6 +168,21 @@
       "expirationDateDisplay": "7-17-2029",
       "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_1944852726/image.img.jpg/1787149587255.jpg",
       "imageAlt": "Picture of MARY LOUISE HERNDON",
+      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
+    },
+    {
+      "id": "larry-d-hinds|3-26-1982|shelby|2026-11-23|aggravated-cruelty-to-animals",
+      "name": "LARRY D. HINDS",
+      "dob": "3-26-1982",
+      "address": "3687 TWINMONT, MEMPHIS, TN 38128",
+      "countyOfConviction": "SHELBY",
+      "offense": "AGGRAVATED CRUELTY TO ANIMALS",
+      "convictionDate": "2026-11-23",
+      "convictionDateDisplay": "11-23-2026",
+      "expirationDate": "2028-11-23",
+      "expirationDateDisplay": "11-23-2028",
+      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_copy/image.img.png/1795543886659.png",
+      "imageAlt": "Picture of LARRY D. HINDS",
       "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
     },
     {
@@ -391,23 +406,8 @@
       "convictionDateDisplay": "11-12-2026",
       "expirationDate": "2028-11-12",
       "expirationDateDisplay": "11-12-2028",
-      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_copy/image.img.png/1794933864867.png",
+      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_copy_143940569/image.img.png/1794933864867.png",
       "imageAlt": "Picture of JADON WILLIAM RUSSELL",
-      "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
-    },
-    {
-      "id": "john-trevor-simmons|4-25-1991|montgomery|2024-11-12|aggravated-cruelty-to-animals",
-      "name": "JOHN TREVOR SIMMONS",
-      "dob": "4-25-1991",
-      "address": "344 DONNA DRIVE, CLARKSVILLE, TN 37042",
-      "countyOfConviction": "MONTGOMERY",
-      "offense": "AGGRAVATED CRUELTY TO ANIMALS",
-      "convictionDate": "2024-11-12",
-      "convictionDateDisplay": "11-12-2024",
-      "expirationDate": "2026-11-12",
-      "expirationDateDisplay": "11-12-2026",
-      "imageUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry/_jcr_content/content/tn_textandimage_6000_607451910/image.img.png/1771518598199.png",
-      "imageAlt": "Picture of JOHN TREVOR SIMMONS",
       "sourceUrl": "https://www.tn.gov/tbi/tennessee-animal-abuse-registry.html"
     },
     {
